@@ -101,4 +101,4 @@ if soma == 1:
   limparTela()
 
 arquivo = open("historico.txt", "a")
-arquivo.write(desafiante + desafiante + competidor )
+arquivo.write(palavra + desafiante + competidor )
