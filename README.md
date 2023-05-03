@@ -1,4 +1,4 @@
 # PrimeiroProjeto
-Jogo da Forca \n
-Rhayra (RA:1135147) \n
+Jogo da Forca 
+Rhayra (RA:1135147) 
 
